@@ -1,6 +1,6 @@
 # Online-Shopping-Intention-analysis-KMeans-Clustering
 
-[!]
+![alt text](https://github.com/hrideshkohli/Online-Shopping-Intention-analysis-KMeans-Clustering/blob/main/img.jpg)
 
 This project is about analysing online shopping intention from the customer specific website statistics. The idea is to create a new strategy or change existing strategy to ensure more customers buy products when they visit the website 
 
